@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\julio\\Downloads\\EJER2DEFINICIONEXPRESIONESREGULARES\\EJER2DEFINICIONEXPRESIONESREGULARES.csproj": {}
+    "C:\\Users\\julio\\Desktop\\EJERCICIO-2\\EJER2DEFINICIONEXPRESIONESREGULARES-1284719\\EJER2DEFINICIONEXPRESIONESREGULARES.csproj": {}
   },
   "projects": {
-    "C:\\Users\\julio\\Downloads\\EJER2DEFINICIONEXPRESIONESREGULARES\\EJER2DEFINICIONEXPRESIONESREGULARES.csproj": {
+    "C:\\Users\\julio\\Desktop\\EJERCICIO-2\\EJER2DEFINICIONEXPRESIONESREGULARES-1284719\\EJER2DEFINICIONEXPRESIONESREGULARES.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julio\\Downloads\\EJER2DEFINICIONEXPRESIONESREGULARES\\EJER2DEFINICIONEXPRESIONESREGULARES.csproj",
+        "projectUniqueName": "C:\\Users\\julio\\Desktop\\EJERCICIO-2\\EJER2DEFINICIONEXPRESIONESREGULARES-1284719\\EJER2DEFINICIONEXPRESIONESREGULARES.csproj",
         "projectName": "EJER2DEFINICIONEXPRESIONESREGULARES",
-        "projectPath": "C:\\Users\\julio\\Downloads\\EJER2DEFINICIONEXPRESIONESREGULARES\\EJER2DEFINICIONEXPRESIONESREGULARES.csproj",
+        "projectPath": "C:\\Users\\julio\\Desktop\\EJERCICIO-2\\EJER2DEFINICIONEXPRESIONESREGULARES-1284719\\EJER2DEFINICIONEXPRESIONESREGULARES.csproj",
         "packagesPath": "C:\\Users\\julio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julio\\Downloads\\EJER2DEFINICIONEXPRESIONESREGULARES\\obj\\",
+        "outputPath": "C:\\Users\\julio\\Desktop\\EJERCICIO-2\\EJER2DEFINICIONEXPRESIONESREGULARES-1284719\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

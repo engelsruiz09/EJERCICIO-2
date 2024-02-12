@@ -60,8 +60,6 @@ while (continuar)
                 int lineNumber = 1;
                 foreach (var line in File.ReadLines(filePathSets))
                 {
-                    // Ahora llama a tu función set para cada línea, pasando la línea y el número de línea.
-                    // Nota: set ahora no retorna un valor booleano que indique si todos los sets son válidos, sino que imprime el resultado por cada línea.
                     expresiones.set(line, lineNumber);
                     lineNumber++;
                 }
